@@ -1,4 +1,4 @@
-# TrackandTriger
+# TrackandTrigger
 This is an Android Application to help the user keep track of his daily activities and events. Also has a functionality to send a notification "trigger" when the deadline of a task is approaching.
 # Login Page
 Login page allows the user to sign in via different methods such as • Mobile Number (with OTP verification) • Email • Google • Facebook • Twitter
